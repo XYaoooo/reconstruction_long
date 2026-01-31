@@ -24,15 +24,6 @@ Training entry scripts:
 - `self_construction_grpo_long_llama.sh`
 - `self_construction_grpo_long_qwen.sh`
 
-Run (examples):
-
-```bash
-bash self_construction_grpo_long_llama.sh
-```
-
-```bash
-bash self_construction_grpo_long_qwen.sh
-```
 
 > Tip: These scripts usually contain the full set of hyperparameters (model path, dataset, output dir, batch sizes, etc.).  
 > Edit them directly to match your hardware and experiment settings.
