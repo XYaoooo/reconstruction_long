@@ -1,4 +1,4 @@
-# VERL Self-Construction (GRPO) Training
+# VERL Self-Reconstruction (GRPO) Training
 
 This repo provides scripts to install dependencies and run **self-construction GRPO long-context training** for **Llama** and **Qwen** models.
 
