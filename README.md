@@ -41,6 +41,7 @@ Pretrained / instruction-tuned models used in this project:
 Self-construction / reconstruction dataset:
 
 - **reconstruction_14k**: https://huggingface.co/datasets/YaoYX/reconstruction_14k
+- **validation: https://huggingface.co/datasets/YaoYX/reconstruction_validation
 
 ## Repository structure (expected)
 
