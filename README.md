@@ -55,16 +55,3 @@ A typical layout for this repo:
 ├─ self_construction_grpo_long_qwen.sh
 └─ (python package / training code)
 ```
-
-## Notes
-
-- This README documents the exact install commands and the main training entrypoints you provided.
-- If you want, you can add:
-  - hardware requirements (GPU type/VRAM),
-  - recommended batch sizes / sequence lengths,
-  - expected outputs (checkpoints, logs),
-  - how to evaluate / run inference.
-
-## License
-
-Add your license here (e.g., MIT / Apache-2.0) or remove this section.
